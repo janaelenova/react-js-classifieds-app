@@ -1,0 +1,4 @@
+-- AlterTable
+ALTER TABLE "Ad" ADD COLUMN "details" TEXT;
+ALTER TABLE "Ad" ADD COLUMN "email" TEXT;
+ALTER TABLE "Ad" ADD COLUMN "phone" TEXT;
